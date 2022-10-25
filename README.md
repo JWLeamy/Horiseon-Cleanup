@@ -1,7 +1,7 @@
 # Modified-Horiseon-Webpage
 
 ## Webpage Picture
-![Image of modified Horiseon Webpage](./Develop/images/Hoirseon.png)
+![Image of modified Horiseon Webpage](./Develop/images/Horiseon.png)
 
 ## Technologies Used
 
